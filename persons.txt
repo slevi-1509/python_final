@@ -1,0 +1,7 @@
+person_type,id,name,age,company,position,salary,field_of_study,score_avg
+Employee,1,Sagiv,54,Lala,Manager,34500.0,,
+Student,2,Avi,34,,,,Psycology,78.0
+Person,3,Shmuel,67,,,,,
+Student,4,Yael,23,,,,Computer Science,96.0
+Employee,5,Tal,26,Elbit,Programmer,37900.0,,
+Student,6,Alex,38,,,,Geology,89.0
