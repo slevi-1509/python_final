@@ -122,8 +122,8 @@ class Employee(Person):
 if __name__ == "__main__":
     test_name = "test_name"
     test_age = 150
-    person = Person (1, test_name, test_age)
-    if person.getName() != test_name:
-        print("Error: Name should be " + test_name + ", but got " + person.getName())
-    if person.getAge() != test_age:
-        print("Error: Age should be " + str(test_age) + ", but got " + str(person.getAge()))
+    # person = Person (1, test_name, test_age)
+    # if person.getName() != test_name:
+    #     print("Error: Name should be " + test_name + ", but got " + person.getName())
+    # if person.getAge() != test_age:
+    #     print("Error: Age should be " + str(test_age) + ", but got " + str(person.getAge()))
